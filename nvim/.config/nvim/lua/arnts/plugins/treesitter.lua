@@ -38,6 +38,7 @@ return {
         "vimdoc",
         "c",
         "php",
+        "phpdoc",
       },
       incremental_selection = {
         enable = true,
